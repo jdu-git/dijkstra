@@ -1,4 +1,3 @@
-// Justin Dupuis ID: 1233344491
 #include <stdio.h>
 #include <stdlib.h>
 #include <cfloat>
